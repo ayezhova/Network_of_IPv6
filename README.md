@@ -7,3 +7,4 @@ ___
 ## Extended!
 
 Added two JS functions that will return the address of IPv4 and IPv6 networks.
+Added JS and PHP functions that will return the cidr of an IPv6 netmask.
